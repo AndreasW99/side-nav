@@ -1,3 +1,5 @@
 # side-nav
-Clean and simple UI for a Website Side Nav
+Clean and simple UI for a Website Side Naviagtion
+
+![](SideNav_Screenshot/Capture.JPG)
 
